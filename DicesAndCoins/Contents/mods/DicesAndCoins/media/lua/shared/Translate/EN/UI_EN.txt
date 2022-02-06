@@ -1,5 +1,0 @@
-UI_EN = {
-UI_Text_Roll_Dice = "Rolled a ",
-UI_Text_FlipCoin_Head = "Head",
-UI_Text_FlipCoin_Tail = "Tail",
-}

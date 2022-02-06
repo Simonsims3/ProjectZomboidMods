@@ -1,4 +1,0 @@
-Recipes_EN = {
-Recipe_Roll_Dices = "Roll the dice",
-Recipe_Flip_Coin = "Flip the coin",
-}

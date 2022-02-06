@@ -1,3 +1,0 @@
-ItemName_FR = {
-ItemName_simonRandom.coinItem = "Pièce",
-}

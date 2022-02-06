@@ -1,5 +1,0 @@
-UI_RU = {
-UI_Text_Roll_Dice = "Выкинул ",
-UI_Text_FlipCoin_Head = "Орел",
-UI_Text_FlipCoin_Tail = "решка",
-}

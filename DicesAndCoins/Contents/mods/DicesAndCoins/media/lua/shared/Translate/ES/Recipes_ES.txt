@@ -1,4 +1,0 @@
-Recipes_ES = {
-Recipe_Roll_Dices = "Tirar los dados",
-Recipe_Flip_Coin = "Tira la moneda",
-}
