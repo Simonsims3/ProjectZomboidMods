@@ -1,0 +1,4 @@
+Recipes_IT = {
+Recipe_Roll_Dices = "Tira i dadi",
+Recipe_Flip_Coin = "Lancia la moneta",
+}

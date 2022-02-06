@@ -1,0 +1,4 @@
+Recipes_RU = {
+Recipe_Roll_Dices = "Бросить кости",
+Recipe_Flip_Coin = "Подбросить монетку",
+}

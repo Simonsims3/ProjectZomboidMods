@@ -1,0 +1,3 @@
+Items_FR = {
+DisplayName_Coin = "Pièce",
+}
