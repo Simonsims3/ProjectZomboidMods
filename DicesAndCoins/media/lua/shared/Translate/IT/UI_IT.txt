@@ -1,0 +1,5 @@
+UI_IT = {
+UI_Text_Roll_Dice = "Ha ottenuto un ",
+UI_Text_FlipCoin_Head = "Croce",
+UI_Text_FlipCoin_Tail = "Testa",
+}

@@ -1,0 +1,3 @@
+Items_IT = {
+DisplayName_Coin = "Moneta",
+}

@@ -1,0 +1,5 @@
+UI_ES = {
+UI_Text_Roll_Dice = "Rodó un ",
+UI_Text_FlipCoin_Head = "Cruz",
+UI_Text_FlipCoin_Tail = "Cara",
+}
