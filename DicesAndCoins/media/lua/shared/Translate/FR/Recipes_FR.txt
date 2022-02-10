@@ -1,4 +1,4 @@
 Recipes_FR = {
-Recipe_Roll_Dices = "Lancer les dés",
-Recipe_Flip_Coin = "Lancez la pièce",
+Recipe_Roll_Dices = "Lancer les dÃ©s",
+Recipe_Flip_Coin = "Lancer la piÃ¨ce",
 }
