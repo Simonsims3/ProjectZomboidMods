@@ -1,0 +1,9 @@
+module Base
+{
+	model coinItem
+	{
+		mesh = WorldItems/coinItem,
+		texture	= WorldItems/coinItem,
+		scale = 0.1,
+    }
+}

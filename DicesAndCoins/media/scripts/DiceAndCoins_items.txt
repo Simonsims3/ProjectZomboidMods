@@ -1,0 +1,34 @@
+module simonRandom
+{
+	imports
+	{
+		Base
+	}
+
+
+	item coinItem
+	{
+		DisplayCategory = Junk,
+		Weight		=	0.01,
+		Type		=	Normal,
+		DisplayName	=   Coin,
+		Icon		=	CoinIcon,
+		WorldStaticModel = coinItem,
+	}
+
+	recipe Roll Dices
+    {
+        Base.Dice,
+        Result:Base.Dice,
+            Time:2.5,
+            OnCreate:RollDices,
+    }
+
+	recipe Flip Coin
+    {
+        coinItem,
+        Result:coinItem,
+            Time:2.5,
+            OnCreate:FlipCoin,
+    }
+}
